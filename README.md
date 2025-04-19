@@ -20,3 +20,6 @@ Topdon Camera can be read like a normal USB camera using OpenCV if you are on li
 * ThermalRecord.py : Provides a minimal example of how to record the camera using OpenCV (FFmpeg if on Mac).
 * NasalRespiration.py (ipynb) : Provides a minimal example of how to use the camera to detect nasal respiration. The code is not optimized and is just a proof of concept. The code uses OpenCV to process the frames and then uses a simple algorithm to detect nasal respiration. 
 * models folder : Contains a few YOLO models used to localize Chest, Face and Nostrils. 
+
+
+For more information on how to use the camera, please refer to this [GitHub repository](https://github.com/leswright1977/PyThermalCamera/tree/main). This is where I got the idea from. 
